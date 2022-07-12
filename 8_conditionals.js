@@ -26,7 +26,7 @@ else{
 }
 
 // another example
-if(role==='gaust'){
+if(role === 'gaust'){
     console.log('Gaust Users');
 }
 else if(role === 'moderator'){

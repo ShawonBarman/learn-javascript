@@ -11,3 +11,5 @@ localStorage.removeItem('name');
 
 console.log(localStorage);
 // console.log(localStorage.getItem('name'));
+
+// localStorage.clear();

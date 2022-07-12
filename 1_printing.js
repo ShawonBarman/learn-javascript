@@ -1,10 +1,15 @@
 /*
 What is JavaScript?
-=> JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform.
+=> JavaScript is a lightweight, interpreted programming language.
+   It is designed for creating network-centric applications. 
+   It is complimentary to and integrated with Java. 
+   JavaScript is very easy to implement because it is integrated with HTML. 
+   It is open and cross-platform.
 */
 
 /*
-In JavaScript, the console keyword refers to an object, a collection of data and actions, that we can use in our code. Keywords are words that are built into the JavaScript language, so the computer will recognize them and treats them specially.
+In JavaScript, the console keyword refers to an object, a collection of data and actions, that we can use in our code. 
+Keywords are words that are built into the JavaScript language, so the computer will recognize them and treats them specially.
 
 write console.log() what we put inside the parentheses will get printed, or logged, to the console.
 
@@ -18,7 +23,7 @@ JavaScript can "display" data in different ways:
 
 console.log("Hello World!");
 
-alert("Please click ok");
+window.alert("Please click ok");
 
 document.write("This is document write");
 

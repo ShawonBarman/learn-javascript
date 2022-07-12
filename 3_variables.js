@@ -18,3 +18,5 @@ console.log(firstName+' '+lastName);
 
 const Rate = 2.5;  //Rate = 1.2;
 console.log('Rate : '+Rate);
+
+console.log(`The value of rate is ${rate}`);

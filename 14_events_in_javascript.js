@@ -12,7 +12,7 @@ Here are some examples of HTML events:
 // HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.
 
 // we can add the oneclick="clicked()" in the HTML inside the button keyword. it means when we clicked the button, the clicked() function is active and run this function.
-function  clicked(){
+function clicked(){
     console.log("Button was clicked");
 }
 

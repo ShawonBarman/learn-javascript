@@ -1,4 +1,3 @@
-
 // Remember that methods are actions we can perform. JavaScript provides a number of string methods.
 // We call, or use, these methods by appending an instance with:
 //     1. a period (the dot operator)
@@ -12,8 +11,8 @@ console.log('Hey'.startsWith('H')); // Prints true
 
 // Let’s look at each of the lines above:
 
-//     (1) On the first line, the .toUpperCase() method is called on the string instance 'hello'. The result is logged to the console. This method returns a string in all capital letters: 'HELLO'.
-//     (2) On the second line, the .startsWith() method is called on the string instance 'Hey'. This method also accepts the character 'H' as an input, or argument, between the parentheses. Since the string 'Hey' does start with the letter 'H', the method returns the boolean true.
+//     (1) On the eight number line, the .toUpperCase() method is called on the string instance 'hello'. The result is logged to the console. This method returns a string in all capital letters: 'HELLO'.
+//     (2) On the nine number line, the .startsWith() method is called on the string instance 'Hey'. This method also accepts the character 'H' as an input, or argument, between the parentheses. Since the string 'Hey' does start with the letter 'H', the method returns the boolean true.
 
 
 // Use a string method to log the following string without whitespace at the beginning and end of it.

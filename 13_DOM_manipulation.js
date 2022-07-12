@@ -1,3 +1,4 @@
+// DOM = Document Object Model (DOM)
 // When writing web pages and apps, one of the most common things you'll want to do is manipulate the document structure in some way. This is usually done by using the Document Object Model (DOM), a set of APIs for controlling HTML and styling information that makes heavy use of the Document object.
 
 // With the HTML DOM, JavaScript can access and change all the elements of an HTML document.

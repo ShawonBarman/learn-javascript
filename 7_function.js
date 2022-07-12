@@ -42,7 +42,7 @@ function test(input){
 const output = test(7);
 console.log(output);
 
-// another way to create any function
+// another way to create any function which is arrow function
 sum = (a, b) => {
     return a+b;
 }
